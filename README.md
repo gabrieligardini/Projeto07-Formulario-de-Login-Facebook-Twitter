@@ -12,4 +12,4 @@ A proposta é recriar a **tela de login inspirada nas redes sociais**.
 - Boas práticas em responsividade
 
 ## ✨ Autor
-Projeto desenvolvido por **Gabrieli Gardini Fernandes**, estudante do **PROA**.
+Projeto desenvolvido por Gabrieli Gardini Fernandes, estudante do PROA.
